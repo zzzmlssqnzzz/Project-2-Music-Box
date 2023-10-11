@@ -1,7 +1,3 @@
-# Melissa Qian
-# 261120131
-# Assignment 4: melody.py
-
 import musicalbeeps
 from note import Note
 
