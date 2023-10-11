@@ -1,7 +1,3 @@
-# Melissa Qian
-# 261120131
-# Assignment 4: note.py
-
 import musicalbeeps
 PITCH = 'ABCDEFGR'
 ACCIDENTAL = ['sharp', 'flat', 'natural']
